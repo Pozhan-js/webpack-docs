@@ -7,6 +7,41 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "依赖环境",
+    "headers": [],
+    "path": "/intro/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "学习资料",
+    "headers": [],
+    "path": "/intro/asset.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "适合群体",
+    "headers": [],
+    "path": "/intro/group.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "我能学到什么",
+    "headers": [],
+    "path": "/intro/learn.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "前置知识",
+    "headers": [],
+    "path": "/intro/pre.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "介绍",
     "headers": [],
     "path": "/origin/",
@@ -236,6 +271,492 @@ export const searchIndex = [
     "title": "总结",
     "headers": [],
     "path": "/origin/summary.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "介绍",
+    "headers": [],
+    "path": "/project/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "React 脚手架",
+    "headers": [
+      {
+        "level": 2,
+        "title": "开发模式配置",
+        "slug": "开发模式配置",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "生产模式配置",
+        "slug": "生产模式配置",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "其他配置",
+        "slug": "其他配置",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "合并开发和生产配置",
+        "slug": "合并开发和生产配置",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "优化配置",
+        "slug": "优化配置",
+        "children": []
+      }
+    ],
+    "path": "/project/react-cli.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "总结",
+    "headers": [],
+    "path": "/project/summary.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Vue 脚手架",
+    "headers": [
+      {
+        "level": 2,
+        "title": "开发模式配置",
+        "slug": "开发模式配置",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "生产模式配置",
+        "slug": "生产模式配置",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "其他配置",
+        "slug": "其他配置",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "合并开发和生产配置",
+        "slug": "合并开发和生产配置",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "优化配置",
+        "slug": "优化配置",
+        "children": []
+      }
+    ],
+    "path": "/project/vue-cli.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "介绍",
+    "headers": [],
+    "path": "/senior/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "提升开发体验",
+    "headers": [
+      {
+        "level": 2,
+        "title": "SourceMap",
+        "slug": "sourcemap",
+        "children": [
+          {
+            "level": 3,
+            "title": "为什么",
+            "slug": "为什么",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "是什么",
+            "slug": "是什么",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "怎么用",
+            "slug": "怎么用",
+            "children": []
+          }
+        ]
+      }
+    ],
+    "path": "/senior/enhanceExperience.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "提升打包构建速度",
+    "headers": [
+      {
+        "level": 2,
+        "title": "HotModuleReplacement",
+        "slug": "hotmodulereplacement",
+        "children": [
+          {
+            "level": 3,
+            "title": "为什么",
+            "slug": "为什么",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "是什么",
+            "slug": "是什么",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "怎么用",
+            "slug": "怎么用",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "OneOf",
+        "slug": "oneof",
+        "children": [
+          {
+            "level": 3,
+            "title": "为什么",
+            "slug": "为什么-1",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "是什么",
+            "slug": "是什么-1",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "怎么用",
+            "slug": "怎么用-1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "Include/Exclude",
+        "slug": "include-exclude",
+        "children": [
+          {
+            "level": 3,
+            "title": "为什么",
+            "slug": "为什么-2",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "是什么",
+            "slug": "是什么-2",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "怎么用",
+            "slug": "怎么用-2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "Cache",
+        "slug": "cache",
+        "children": [
+          {
+            "level": 3,
+            "title": "为什么",
+            "slug": "为什么-3",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "是什么",
+            "slug": "是什么-3",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "怎么用",
+            "slug": "怎么用-3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "Thead",
+        "slug": "thead",
+        "children": [
+          {
+            "level": 3,
+            "title": "为什么",
+            "slug": "为什么-4",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "是什么",
+            "slug": "是什么-4",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "怎么用",
+            "slug": "怎么用-4",
+            "children": []
+          }
+        ]
+      }
+    ],
+    "path": "/senior/liftingSpeed.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "优化代码运行性能",
+    "headers": [
+      {
+        "level": 2,
+        "title": "Code Split",
+        "slug": "code-split",
+        "children": [
+          {
+            "level": 3,
+            "title": "为什么",
+            "slug": "为什么",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "是什么",
+            "slug": "是什么",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "怎么用",
+            "slug": "怎么用",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "Preload / Prefetch",
+        "slug": "preload-prefetch",
+        "children": [
+          {
+            "level": 3,
+            "title": "为什么",
+            "slug": "为什么-1",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "是什么",
+            "slug": "是什么-1",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "怎么用",
+            "slug": "怎么用-1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "Network Cache",
+        "slug": "network-cache",
+        "children": [
+          {
+            "level": 3,
+            "title": "为什么",
+            "slug": "为什么-2",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "是什么",
+            "slug": "是什么-2",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "怎么用",
+            "slug": "怎么用-2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "Core-js",
+        "slug": "core-js",
+        "children": [
+          {
+            "level": 3,
+            "title": "为什么",
+            "slug": "为什么-3",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "是什么",
+            "slug": "是什么-3",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "怎么用",
+            "slug": "怎么用-3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "PWA",
+        "slug": "pwa",
+        "children": [
+          {
+            "level": 3,
+            "title": "为什么",
+            "slug": "为什么-4",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "是什么",
+            "slug": "是什么-4",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "怎么用",
+            "slug": "怎么用-4",
+            "children": []
+          }
+        ]
+      }
+    ],
+    "path": "/senior/optimizePerformance.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "减少代码体积",
+    "headers": [
+      {
+        "level": 2,
+        "title": "Tree Shaking",
+        "slug": "tree-shaking",
+        "children": [
+          {
+            "level": 3,
+            "title": "为什么",
+            "slug": "为什么",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "是什么",
+            "slug": "是什么",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "怎么用",
+            "slug": "怎么用",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "Babel",
+        "slug": "babel",
+        "children": [
+          {
+            "level": 3,
+            "title": "为什么",
+            "slug": "为什么-1",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "是什么",
+            "slug": "是什么-1",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "怎么用",
+            "slug": "怎么用-1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "Image Minimizer",
+        "slug": "image-minimizer",
+        "children": [
+          {
+            "level": 3,
+            "title": "为什么",
+            "slug": "为什么-2",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "是什么",
+            "slug": "是什么-2",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "怎么用",
+            "slug": "怎么用-2",
+            "children": []
+          }
+        ]
+      }
+    ],
+    "path": "/senior/reduceVolume.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "总结",
+    "headers": [],
+    "path": "/senior/summary.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -930,527 +1451,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "依赖环境",
-    "headers": [],
-    "path": "/intro/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "学习资料",
-    "headers": [],
-    "path": "/intro/asset.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "适合群体",
-    "headers": [],
-    "path": "/intro/group.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "我能学到什么",
-    "headers": [],
-    "path": "/intro/learn.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "前置知识",
-    "headers": [],
-    "path": "/intro/pre.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "介绍",
-    "headers": [],
-    "path": "/senior/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "提升开发体验",
-    "headers": [
-      {
-        "level": 2,
-        "title": "SourceMap",
-        "slug": "sourcemap",
-        "children": [
-          {
-            "level": 3,
-            "title": "为什么",
-            "slug": "为什么",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "是什么",
-            "slug": "是什么",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "怎么用",
-            "slug": "怎么用",
-            "children": []
-          }
-        ]
-      }
-    ],
-    "path": "/senior/enhanceExperience.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "提升打包构建速度",
-    "headers": [
-      {
-        "level": 2,
-        "title": "HotModuleReplacement",
-        "slug": "hotmodulereplacement",
-        "children": [
-          {
-            "level": 3,
-            "title": "为什么",
-            "slug": "为什么",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "是什么",
-            "slug": "是什么",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "怎么用",
-            "slug": "怎么用",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "OneOf",
-        "slug": "oneof",
-        "children": [
-          {
-            "level": 3,
-            "title": "为什么",
-            "slug": "为什么-1",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "是什么",
-            "slug": "是什么-1",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "怎么用",
-            "slug": "怎么用-1",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "Include/Exclude",
-        "slug": "include-exclude",
-        "children": [
-          {
-            "level": 3,
-            "title": "为什么",
-            "slug": "为什么-2",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "是什么",
-            "slug": "是什么-2",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "怎么用",
-            "slug": "怎么用-2",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "Cache",
-        "slug": "cache",
-        "children": [
-          {
-            "level": 3,
-            "title": "为什么",
-            "slug": "为什么-3",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "是什么",
-            "slug": "是什么-3",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "怎么用",
-            "slug": "怎么用-3",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "Thead",
-        "slug": "thead",
-        "children": [
-          {
-            "level": 3,
-            "title": "为什么",
-            "slug": "为什么-4",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "是什么",
-            "slug": "是什么-4",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "怎么用",
-            "slug": "怎么用-4",
-            "children": []
-          }
-        ]
-      }
-    ],
-    "path": "/senior/liftingSpeed.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "优化代码运行性能",
-    "headers": [
-      {
-        "level": 2,
-        "title": "Code Split",
-        "slug": "code-split",
-        "children": [
-          {
-            "level": 3,
-            "title": "为什么",
-            "slug": "为什么",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "是什么",
-            "slug": "是什么",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "怎么用",
-            "slug": "怎么用",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "Preload / Prefetch",
-        "slug": "preload-prefetch",
-        "children": [
-          {
-            "level": 3,
-            "title": "为什么",
-            "slug": "为什么-1",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "是什么",
-            "slug": "是什么-1",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "怎么用",
-            "slug": "怎么用-1",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "Network Cache",
-        "slug": "network-cache",
-        "children": [
-          {
-            "level": 3,
-            "title": "为什么",
-            "slug": "为什么-2",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "是什么",
-            "slug": "是什么-2",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "怎么用",
-            "slug": "怎么用-2",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "Core-js",
-        "slug": "core-js",
-        "children": [
-          {
-            "level": 3,
-            "title": "为什么",
-            "slug": "为什么-3",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "是什么",
-            "slug": "是什么-3",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "怎么用",
-            "slug": "怎么用-3",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "PWA",
-        "slug": "pwa",
-        "children": [
-          {
-            "level": 3,
-            "title": "为什么",
-            "slug": "为什么-4",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "是什么",
-            "slug": "是什么-4",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "怎么用",
-            "slug": "怎么用-4",
-            "children": []
-          }
-        ]
-      }
-    ],
-    "path": "/senior/optimizePerformance.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "减少代码体积",
-    "headers": [
-      {
-        "level": 2,
-        "title": "Tree Shaking",
-        "slug": "tree-shaking",
-        "children": [
-          {
-            "level": 3,
-            "title": "为什么",
-            "slug": "为什么",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "是什么",
-            "slug": "是什么",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "怎么用",
-            "slug": "怎么用",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "Babel",
-        "slug": "babel",
-        "children": [
-          {
-            "level": 3,
-            "title": "为什么",
-            "slug": "为什么-1",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "是什么",
-            "slug": "是什么-1",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "怎么用",
-            "slug": "怎么用-1",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "Image Minimizer",
-        "slug": "image-minimizer",
-        "children": [
-          {
-            "level": 3,
-            "title": "为什么",
-            "slug": "为什么-2",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "是什么",
-            "slug": "是什么-2",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "怎么用",
-            "slug": "怎么用-2",
-            "children": []
-          }
-        ]
-      }
-    ],
-    "path": "/senior/reduceVolume.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "总结",
-    "headers": [],
-    "path": "/senior/summary.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "介绍",
-    "headers": [],
-    "path": "/project/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "React 脚手架",
-    "headers": [
-      {
-        "level": 2,
-        "title": "开发模式配置",
-        "slug": "开发模式配置",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "生产模式配置",
-        "slug": "生产模式配置",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "其他配置",
-        "slug": "其他配置",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "合并开发和生产配置",
-        "slug": "合并开发和生产配置",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "优化配置",
-        "slug": "优化配置",
-        "children": []
-      }
-    ],
-    "path": "/project/react-cli.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "总结",
-    "headers": [],
-    "path": "/project/summary.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Vue 脚手架",
-    "headers": [
-      {
-        "level": 2,
-        "title": "开发模式配置",
-        "slug": "开发模式配置",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "生产模式配置",
-        "slug": "生产模式配置",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "其他配置",
-        "slug": "其他配置",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "合并开发和生产配置",
-        "slug": "合并开发和生产配置",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "优化配置",
-        "slug": "优化配置",
-        "children": []
-      }
-    ],
-    "path": "/project/vue-cli.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "",
     "headers": [],
     "path": "/404.html",
@@ -1458,16 +1458,3 @@ export const searchIndex = [
     "extraFields": []
   }
 ]
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updateSearchIndex) {
-    __VUE_HMR_RUNTIME__.updateSearchIndex(searchIndex)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ searchIndex }) => {
-    __VUE_HMR_RUNTIME__.updateSearchIndex(searchIndex)
-  })
-}

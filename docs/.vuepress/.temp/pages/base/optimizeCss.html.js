@@ -94,19 +94,14 @@ export const data = {
       ]
     }
   ],
-  "git": {},
+  "git": {
+    "contributors": [
+      {
+        "name": "hashMi",
+        "email": "854059946@qq.com",
+        "commits": 1
+      }
+    ]
+  },
   "filePathRelative": "base/optimizeCss.md"
-}
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
 }
